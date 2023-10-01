@@ -1,4 +1,4 @@
-# Books-on-Pattern-Recognition
+# Books-on-pattern-recognition
 
 ## 1. 模式识别
 
