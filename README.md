@@ -3,8 +3,8 @@
 ## 1. 模式识别
 [1] C.M. Bishop. Pattern Recognition and Machine Learning[M]. New York: Springer, 2006.
 ## 2. 机器学习
-[1] 周志华. 机器学习[M]. 北京：清华大学出版社，2016.
-[2] 南瓜书. https://github.com/datawhalechina/pumpkin-book/releases
+[1] 周志华. 机器学习[M]. 北京：清华大学出版社，2016.  
+[2] 南瓜书. https://github.com/datawhalechina/pumpkin-book/releases  
 [3] 李航. 统计学习方法[M]. 北京：清华大学出版社，2019.
 ## 3. 深度学习
 [1]  邱锡鹏. 神经网络与深度学习[M]. https://nndl.github.io/
