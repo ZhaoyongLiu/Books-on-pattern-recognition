@@ -7,6 +7,7 @@
 [2] 南瓜书. https://github.com/datawhalechina/pumpkin-book/releases  
 [3] 李航. 统计学习方法[M]. 北京：清华大学出版社，2019.
 ## 3. 深度学习
-[1]  邱锡鹏. 神经网络与深度学习[M]. https://nndl.github.io/
+[1] 邱锡鹏. 神经网络与深度学习[M]. https://nndl.github.io/  
+[2] 斋藤康毅. 深度学习入门——基于Python的理论与实现[M]. 陆宇杰，译. 北京：人民邮电出版社，2018.
 ## 4. 图像处理
 [1] R.C. Gonzalez, R.E. Woods. 数字图像处理[M]. 阮秋琦，等，译. 北京：电子工业出版社，2011.
