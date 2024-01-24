@@ -1,4 +1,5 @@
 # Books-on-pattern-recognition
+陆续完善中......
 
 ## 1. 模式识别
 [1] C.M. Bishop. Pattern Recognition and Machine Learning[M]. New York: Springer, 2006.
