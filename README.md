@@ -1,6 +1,6 @@
 # Books-on-pattern-recognition
 
-## 1. 图像分析
+## 1. 图像处理
 [1] R.C. Gonzalez, R.E. Woods. 数字图像处理[M]. 阮秋琦，等，译. 北京：电子工业出版社，2011.  
 [2] 张铮，王艳平，薛桂香. 数字图像处理与机器视觉--Visual C++与MATLAB实现[M]. 北京：人民邮电出版社，2010.
 
