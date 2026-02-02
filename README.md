@@ -1,11 +1,11 @@
 # Books-on-pattern-recognition
 
 ## 1. 图像处理
-[1] R.C. Gonzalez, R.E. Woods. 数字图像处理[M]. 阮秋琦，等，译. 北京：电子工业出版社，2011.  
+[1] R. C. Gonzalez, R. E. Woods. 数字图像处理[M]. 阮秋琦，等，译. 北京：电子工业出版社，2011.  
 [2] 张铮，王艳平，薛桂香. 数字图像处理与机器视觉--Visual C++与MATLAB实现[M]. 北京：人民邮电出版社，2010.
 
 ## 2. 模式识别
-[1] C.M. Bishop. Pattern Recognition and Machine Learning[M]. New York: Springer, 2006.  
+[1] C. M. Bishop. Pattern Recognition and Machine Learning[M]. New York: Springer, 2006.  
 [2] 张学工，汪小我. 模式识别[M]. 北京：清华大学出版社，2021.  
 [3] 杨淑莹. 模式识别与智能计算--Matlab技术实现[M]. 北京：电子工业出版社，2011.
 
