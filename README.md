@@ -13,7 +13,9 @@
 [1] 周志华. 机器学习[M]. 北京：清华大学出版社，2016.  
 [2] 南瓜书. https://github.com/datawhalechina/pumpkin-book/releases  
 [3] 李航. 统计学习方法[M]. 北京：清华大学出版社，2019.  
-[4] 赵志勇. Python机器学习算法[M]. 北京：电子工业出版社，2017.
+[4] 赵志勇. Python机器学习算法[M]. 北京：电子工业出版社，2017.  
+[5] 姜伟生. [数据有道](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)[M]. 北京：清华大学出版社，2024.  
+[6] 姜伟生. [机器学习](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)[M]. 北京：清华大学出版社，2024.  
 
 ## 4. 深度学习
 [1] 邱锡鹏. 神经网络与深度学习[M]. https://nndl.github.io/  
